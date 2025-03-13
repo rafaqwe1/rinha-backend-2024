@@ -7,4 +7,4 @@ Para executar utilize o comando:
 docker compose up
 ```
 
-Repositório da rinha: [https://github.com/rafaqwe1/rinha-backend-2024](https://github.com/rafaqwe1/rinha-backend-2024)
+Repositório da rinha: [https://github.com/zanfranceschi/rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1)
